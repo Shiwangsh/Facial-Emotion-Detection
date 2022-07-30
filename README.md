@@ -31,3 +31,8 @@ d.	Conduct proper evaluation and tests to assure model’s efficiency
 ![image](https://user-images.githubusercontent.com/61860925/181880100-6e7a0618-e38b-4660-b27f-20f6ede23871.png)
 ![image](https://user-images.githubusercontent.com/61860925/181880117-61729d29-f647-42c3-a6cd-c804806ffadd.png)
 
+## 5. Results
+S.N.	Learning Rate	Accuracy Rate
+1.	0.001	0.60
+2.	0.01	0.54
+
